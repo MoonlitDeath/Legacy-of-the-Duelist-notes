@@ -4,7 +4,7 @@ Files inside the DAT file-
 
 arenas
 
-link:https://github.com/MoonlitDeath/Legacy-of-the-Duelist-notes/blob/master/bin[bin]
+bin
 
 card
 
