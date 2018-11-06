@@ -4,7 +4,7 @@ Files inside the DAT file-
 
 arenas-The images of each arena, changing them seems to not do anything, the actual field is located in Phyre files
 
-[bin](https://github.com/MoonlitDeath/Legacy-of-the-Duelist-notes/wiki/bin)The banlist, card names, attributes and others.
+[bin](https://github.com/MoonlitDeath/Legacy-of-the-Duelist-notes/wiki/bin)- The banlist, card names, attributes and others.
 
 card-Card Sleeves used in game
 
