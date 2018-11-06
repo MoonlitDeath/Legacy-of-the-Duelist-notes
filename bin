@@ -1,0 +1,11 @@
+This folder contains things like the actual card descriptions and names.
+
+CARD_Desc-E.bin and the others are the actual effects written on the cards. You can change these to whatever you want, but try to keep the text the same size, or it will mess up every single card effect under it since they have to have their actual pointers changed as well.
+
+CARD_Name_E.bin has the actual names of cards, you can edit these but keep in mind the stuff written above.
+
+CARD_Prop.bin I think has the actual card attributes in it, but is bitshifted or something, so not sure how to edit that
+
+pd_limits.bin is the actual banlist the game uses. 
+The actual format is simple, in that the 4 bytes that appear are the number of total banned cards (this must be correct or the actual card descriptions will disappear)
+Say you have 40 cards in your ban list, 28 is the number in hex, so you would add 28 00 here. Each card is 2 bytes each, so after 80 bytes, you would type the number of the Limited cards next in the same way, like 28 00 again if there were 40 limited cards. After 80 more bytes is the Semi-Limited number.
