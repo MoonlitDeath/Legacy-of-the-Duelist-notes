@@ -39,3 +39,10 @@ effectManifest
 modelManifest
 
 packs.zib
+
+
+My Requiem mod is [here](https://www.reddit.com/r/YGOLegacyOfTheDuelist/comments/9sie0b/requiem_14_mod/)
+
+My Discord for modding is here-
+
+https://discord.gg/zWMKpRR
